@@ -45,4 +45,4 @@ Each project folder contains Jupyter notebooks or Python scripts, along with the
 Feel free to reach out if you have any questions or feedback!
 
 Happy coding! 😊
-```
+---
