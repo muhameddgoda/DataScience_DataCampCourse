@@ -1,6 +1,6 @@
 # Data Science with Python Projects
 
-![Data Science with Python](https://play-lh.googleusercontent.com/2C2J-FBAv2rK9ik8imx2w-03Dq3W9xhifqYebfsXfUKfmQQyMq62OBmIRsWWU76E5C4R=w512)
+![Data Science with Python](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png)
 
 ## Overview
 This repository contains a collection of projects completed as part of the Data Science with Python course provided by Data Camp. Each project explores different aspects of data analysis and visualization using Python programming and various libraries.
@@ -45,3 +45,4 @@ Each project folder contains Jupyter notebooks or Python scripts, along with the
 Feel free to reach out if you have any questions or feedback!
 
 Happy coding! 😊
+```
