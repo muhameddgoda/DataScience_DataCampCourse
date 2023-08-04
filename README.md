@@ -1,6 +1,6 @@
 # Data Science with Python Projects
 
-![Data Science with Python]([https://your-image-url.com](https://play-lh.googleusercontent.com/2C2J-FBAv2rK9ik8imx2w-03Dq3W9xhifqYebfsXfUKfmQQyMq62OBmIRsWWU76E5C4R=w512))
+![Data Science with Python]([https://play-lh.googleusercontent.com/2C2J-FBAv2rK9ik8imx2w-03Dq3W9xhifqYebfsXfUKfmQQyMq62OBmIRsWWU76E5C4R=w512])
 
 ## Overview
 This repository contains a collection of projects completed as part of the Data Science with Python course provided by Data Camp. Each project explores different aspects of data analysis and visualization using Python programming and various libraries.
@@ -26,17 +26,17 @@ By filtering data and using Pandas, this project analyzes Dr. Semmelweis's data 
 With Scikit Learn library, this project builds a machine learning model to predict credit card approvals based on historical data.
 
 ## Libraries Used
-- Python
 - Matplotlib
 - Seaborn
 - Pandas
+- NumPy
 - Scikit Learn
 
 ## Requirements
 To run the code, you need to have Python and the necessary libraries installed. You can install the required libraries using the following command:
 
 ```bash
-pip install matplotlib seaborn pandas scikit-learn
+pip install matplotlib seaborn pandas scikit-learn numppy
 ```
 
 ## Instructions
