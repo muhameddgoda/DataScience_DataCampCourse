@@ -36,7 +36,7 @@ With Scikit Learn library, this project builds a machine learning model to predi
 To run the code, you need to have Python and the necessary libraries installed. You can install the required libraries using the following command:
 
 ```bash
-pip install matplotlib seaborn pandas scikit-learn numppy
+pip install matplotlib seaborn pandas scikit-learn numpy
 ```
 
 ## Instructions
