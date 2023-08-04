@@ -1,2 +1,47 @@
-# DataScience_DataCampCourse
-Course's Projects
+# Data Science with Python Projects
+
+![Data Science with Python]([https://your-image-url.com](https://play-lh.googleusercontent.com/2C2J-FBAv2rK9ik8imx2w-03Dq3W9xhifqYebfsXfUKfmQQyMq62OBmIRsWWU76E5C4R=w512))
+
+## Overview
+This repository contains a collection of projects completed as part of the Data Science with Python course provided by Data Camp. Each project explores different aspects of data analysis and visualization using Python programming and various libraries.
+
+## Projects
+
+### 1. Intermediate Python
+In this project, I practiced Python programming and explored intermediate concepts, including functions, list comprehensions, and more.
+
+### 2. What and Where are the World's Oldest Businesses
+This project dives into historical data to identify the world's oldest businesses and their locations using data analysis techniques.
+
+### 3. The Android App Market on Google Play
+Through data visualization using Matplotlib and Seaborn, this project examines the Android app market on Google Play, revealing insights about popular app categories and their ratings.
+
+### 4. A Visual History of Nobel Prize Winners
+Using Matplotlib and Seaborn, this project presents a visual history of Nobel Prize winners across categories and countries.
+
+### 5. Dr. Semmelweis and the Discovery of Handwashing
+By filtering data and using Pandas, this project analyzes Dr. Semmelweis's data and explores the impact of handwashing on mortality rates.
+
+### 6. Predicting Credit Card Approvals
+With Scikit Learn library, this project builds a machine learning model to predict credit card approvals based on historical data.
+
+## Libraries Used
+- Python
+- Matplotlib
+- Seaborn
+- Pandas
+- Scikit Learn
+
+## Requirements
+To run the code, you need to have Python and the necessary libraries installed. You can install the required libraries using the following command:
+
+```bash
+pip install matplotlib seaborn pandas scikit-learn
+```
+
+## Instructions
+Each project folder contains Jupyter notebooks or Python scripts, along with the required datasets. Simply clone the repository and run the code to explore the projects.
+
+Feel free to reach out if you have any questions or feedback!
+
+Happy coding! 😊
